@@ -1,0 +1,7 @@
+D:\csharp\Pattern\SharpFactory\bin\Debug\SharpFactory.exe.config
+D:\csharp\Pattern\SharpFactory\bin\Debug\SharpFactory.exe
+D:\csharp\Pattern\SharpFactory\bin\Debug\SharpFactory.pdb
+D:\csharp\Pattern\SharpFactory\obj\Debug\SharpFactory.csprojAssemblyReference.cache
+D:\csharp\Pattern\SharpFactory\obj\Debug\SharpFactory.exe
+D:\csharp\Pattern\SharpFactory\obj\Debug\SharpFactory.pdb
+D:\csharp\Pattern\SharpFactory\obj\Debug\SharpFactory.csproj.CoreCompileInputs.cache
